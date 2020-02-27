@@ -10,3 +10,7 @@ Milletari, F., Navab, N. and Ahmadi, S.A., 2016, October. V-net: Fully convoluti
 
 ## VNet-VAE
 Myronenko, A., 2018, September. 3D MRI brain tumor segmentation using autoencoder regularization. In International MICCAI Brainlesion Workshop (pp. 311-320). Springer, Cham.
+
+## Notes
+I did not use subclass since the structure is hard coded.
+I wanted to change the network based on configuration files.
